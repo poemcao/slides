@@ -19,7 +19,25 @@ mode        : selfcontained # {standalone, draft}
 --- .class #id 
 
 ## Slide 2
+
 You can visit my personal page:[poemcao](poemcao.github.com)
+试一试中文支持？
+
+--- .class #id
+
+##看一看R支持？
+
+
+```r
+data(cars)
+library(ggplot2)
+plot(cars)
+```
+
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
+
+
+
 
 
 

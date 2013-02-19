@@ -1,0 +1,8 @@
+require(devtools)
+install_github("slidify", "ramnathv")
+install_github("slidifyLibraries", "ramnathv")
+library(slidify)
+setwd('/home/poemcao/')
+author('slides')
+slidify("index.Rmd")
+publish(user = "poemcao", repo = "slides")
