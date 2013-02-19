@@ -1,8 +1,8 @@
 ---
-title       : my first slide using slidify
-subtitle    : it's amazing
-author      : poemcao
-job         : Sichuan University
+title       : Mining the society
+subtitle    : social survey & research
+author      : poemcao^Mail me:poemcao@gmial.com
+job         : Department of Sociology & Psycholoy,Sichuan University
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -10,33 +10,39 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Read-And-Delete
+## Tree of Class
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+1. Social Survey
+ 1.1 Methodology
+ 1.2 Idea
+ 1.3 How to do a social survey
+2. Social Research
+ 2.1 Data
+ 2.2 Mining data
+3. Get what we want or what we did not design
 
 --- .class #id 
 
-## Slide 2
+## 社会调查
 
-You can visit my personal page:[poemcao](poemcao.github.com)
-试一试中文支持？
+什么是社会调查？
+
+
 
 --- .class #id
 
-##看一看R支持？
-
+## 社会研究
+什么是社会研究？
 
 ```r
 data(cars)
-library(ggplot2)
+
 plot(cars)
 ```
 
 ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
 
-
+--- .class #id
 
 
 
