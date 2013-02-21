@@ -1,7 +1,7 @@
 ---
 title       : Mining the society
 subtitle    : social survey & research
-author      : poemcao^Mail me:poemcao@gmial.com
+author      : poemcao^Mail me:poemcao@gmail.com
 job         : Department of Sociology & Psycholoy,Sichuan University
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -24,6 +24,9 @@ mode        : selfcontained # {standalone, draft}
 --- .class #id 
 
 ## 社会调查
+参考书目：
+
+风笑天：现代社会调查方法，华中科技大学出版社，第四版。
 
 什么是社会调查？
 
