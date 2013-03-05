@@ -12,4 +12,13 @@ mode        : selfcontained # {standalone, draft}
 
 ## Poemcao's slides
 
-1. cuhk :[cuhk](slides/cuhk)
+1. cuhk :[cuhk](/cuhk)
+
+2.
+
+3.
+
+4.
+
+5.
+
