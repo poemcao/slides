@@ -1,0 +1,15 @@
+---
+title       : 社会调查
+subtitle    : social survey & research
+author      : poemcao^Mail me:poemcao@gmail.com
+job         : Department of Sociology & Psycholoy,Sichuan University
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+---
+
+## Poemcao's slides
+
+1. cuhk ![cuhk](poemcao.github.com/slides/cuhk)
