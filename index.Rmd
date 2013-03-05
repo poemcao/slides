@@ -12,4 +12,4 @@ mode        : selfcontained # {standalone, draft}
 
 ## Poemcao's slides
 
-1. cuhk :[cuhk](poemcao.github.com/slides/cuhk)
+1. cuhk :[cuhk](/cuhk)
