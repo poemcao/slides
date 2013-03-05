@@ -14,7 +14,7 @@ mode        : selfcontained # {standalone, draft}
 
 
 
-1. cuhk :[cuhk](cuhk/)
+1. cuhk :[cuhk](cuhk)
 
 2.
 
