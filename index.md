@@ -1,5 +1,5 @@
 ---
-title       : 社会调查
+title       : Poemcao's Slides
 subtitle    : social survey & research
 author      : poemcao^Mail me:poemcao@gmail.com
 job         : Department of Sociology & Psycholoy,Sichuan University
@@ -12,4 +12,4 @@ mode        : selfcontained # {standalone, draft}
 
 ## Poemcao's slides
 
-1. cuhk ![cuhk](poemcao.github.com/slides/cuhk)
+1. cuhk :[cuhk](poemcao.github.com/slides/cuhk)
